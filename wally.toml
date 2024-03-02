@@ -1,6 +1,6 @@
 [package]
-name = "gameanalytics/gameanalytics-sdk"
-description = "Official Roblox SDK for GameAnalytics. GameAnalytics is a free analytics platform that helps game developers understand their players' behaviour by delivering relevant insights."
+name = "endarke/gameanalytics-sdk"
+description = "This is a forked version from the official GameAnalytics Roblox SDK. This addition is within full intention of patching immediate issues."
 version = "2.2.3"
 license = "MIT"
 authors = ["GameAnalytics <sdk@gameanalytics.com>"]
